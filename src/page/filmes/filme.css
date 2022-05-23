@@ -1,0 +1,15 @@
+.section{
+display: flex;
+
+}
+.imagem{
+  margin-left: 20px;
+  margin-top: 20px;
+
+}
+
+.detalhe_filme{
+  margin-left: 20px;
+  margin-top: 20px;
+  width: 50%;
+}
